@@ -1,0 +1,11 @@
+Here is where we will be writing a story together! Each of you will clone this file, write a sentence, and add and commit with a message, where the next person will pull. This will either happen in groups or all together, depending on how much time we have. 
+
+As a reminder, the relevant commands in chronological order are:
+git clone [ssh git link]
+
+git add
+
+git commit -m "message"
+
+BEGINNING OF THE STORY
+What do you do with a drunken sailor? 
