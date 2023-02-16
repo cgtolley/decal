@@ -1,4 +1,4 @@
-Here is where we will be writing a story together! Each of you will clone this file, write a sentence, and add and commit with a message, where the next person will pull. This will either happen in groups or all together, depending on how much time we have. 
+Here is where we will be writing a story together! Each of you will clone this file, write a sentence, and add and commit with a message, where the next person will pull. This will either happen in groups or all together, depending on how much time we have. You should COPY this file in the same directory that you are in (use terminal cheat sheet commands), name it something new, and begin writing. Go around in groups a few times until you have a sizable story!
 
 As a reminder, the relevant commands in chronological order are:
 git clone [ssh git link]
@@ -7,5 +7,7 @@ git add
 
 git commit -m "message"
 
+git push
+
 BEGINNING OF THE STORY
-What do you do with a drunken sailor? 
+It was a dark and stormy night...
